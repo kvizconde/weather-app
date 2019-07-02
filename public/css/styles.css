@@ -30,7 +30,16 @@ h1 {
 }
 
 .portrait {
+  color: inherit;
   width: 250px;
+}
+
+.handle {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+  padding: 10px;
+  width: 50%;
 }
 
 input {
